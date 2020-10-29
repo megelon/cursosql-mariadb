@@ -1,14 +1,29 @@
 # cursosql-mariadb
-Curso SQL por diazmiguel.com usando mariadb
 
+## Público: Cualquier persona que quiera aprender SQL desde ceros.
 
-
+Curso SQL por www.diazmiguel.com 
 
 ### Descripción del curso
 Hoy tenemos disponibles grandes volúmenes de datos. Para almacenarlos debemos utilizar herramientas robustas. Por lo general la mayoría de herramientas nos permitirán acceder a esa información, la condición es que hablamos su idioma, SQL.
 El curso busca enseñarnos a hablar el idioma de estas herramientas, para que seamos capaces de preguntar lo que queramos y seamos capaces de tomar decisiones informados.
 
-Público: Cualquier persona que quiera aprender SQL desde ceros.
+
+# ¿Por qué este curso es especial?
+
+Mi experiencia me dice que los seres humanos aprendemos creando no consumiendo.
+Pagar por un curso en línea para consumir conocimiento ES PERDER EL TIEMPO.
+El foco de este curso es que te enfrentes con problemas reales y les des solución. 
+Aproveches la guía y optimizes la curva de aprendizaje.
+
+Vamos a trabajar en un proyecto final que quedará público en tu cuenta de GitHub, así de paso te entrenarás en Git.
+Y tendrás un certificado para tu próxima entrevista.
+
+# ¿Cuál es el proyecto final?
+
+En la vida real los directivos quieren tomar mejores decisiones pero no tienen idea cómo. 
+El proyecto final consiste justo en atacar esta problemática. 
+Recibir un set de datos y estructurar (por su cuenta) un tablero útil para la toma de decisiones.
 
 ### Proyecto:
 El proyecto final de este curso consiste en asumir el rol de Business Intelligence Analyst, para una compañía de Sillicon Valley. El board de la compañía te contrató para crear un tablero de indicadores que los ayude a tomar mejores decisiones. Para lograrlo vamos a definir y ejecutar una metodología de trabajo, instalaremos las herramientas necesarias y finalmente construiremos el tablero usando SQL en el proceso.
@@ -20,7 +35,7 @@ Para realizar este proyecto vamos a necesitar.
 4. Un entorno de desarrollo integrado.
 
 Material adicional
- *  Top 5 key metrics any entrepreneur must closely monitor., 
+ * Top 5 key metrics any entrepreneur must closely monitor., 
  * MariaDB documentation, 
  * Hacker rank, 
  * Meetup, 
