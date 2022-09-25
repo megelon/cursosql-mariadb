@@ -2,7 +2,7 @@
 
 ## Público: Cualquier persona que quiera aprender SQL desde ceros.
 
-Curso SQL por www.diazmiguel.com 
+Curso de SQL para principiantes.
 
 ### Descripción del curso
 Hoy tenemos disponibles grandes volúmenes de datos. Para almacenarlos debemos utilizar herramientas robustas. Por lo general la mayoría de herramientas nos permitirán acceder a esa información, la condición es que hablamos su idioma, SQL.
