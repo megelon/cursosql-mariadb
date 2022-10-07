@@ -12,7 +12,6 @@ El curso busca enseñarnos a hablar el idioma de estas herramientas, para que se
 # ¿Por qué este curso es especial?
 
 Mi experiencia me dice que los seres humanos aprendemos creando no consumiendo.
-Pagar por un curso en línea para consumir conocimiento ES PERDER EL TIEMPO.
 El foco de este curso es que te enfrentes con problemas reales y les des solución. 
 Aproveches la guía y optimizes la curva de aprendizaje.
 
@@ -64,44 +63,30 @@ Módulo 3: Conceptos básicos de SQL 1
  * Términos básicos de las bases de datos relacionales.
  * Zoom de términos básicos.
 
-Módulo 4: Conceptos básicos de SQL 2
- * Ciclo de vida de una base de datos.
- * Caso práctico Poets Circle 1.
- * Caso práctico Poets Circle 2.
- * Caso práctico Poets Circle 3.
- * Caso práctico Poets Circle 4-6.
- * Normalización vista por encima
- * Práctica.
- * SQL vs NoSQL.
-
-Módulo 5: Entendimiento del negocio
+Módulo 4: Entendimiento del negocio
  * La compañía dueña de los datos. 
  * Determinar los objetivos y criterios de éxito del negocio.
  * Diseño de los kpis v1.
  * Inventario de datos para los kpis. 
 
-Módulo 6: Entender los datos
+Módulo 5: Entender los datos
  * Cargue de datos 1(SQL) Create table.
  * Cargue de datos 2 (SQL) Cargar datos por interfaz gráfica. 
  * Cargue de datos 3 (SQL) Cargar datos por línea de comandos.
  * Describir los datos 1 (Diccionario)
-
-Módulo 7: Preparar los datos.
  * Preparar los datos Producto - 
  * Preparar los datos Ventas - WeWork.
-
-Módulo 8: Modelar / Evaluar / Implementar.
  * Contextualización de visualización.
  * Datastudio 1. Producto. Código de GRÁFICAS en PHP
  * Datastudio 2. Ventas. Código de GRÁFICAS en PHP
  * Evaluación e implementación.
 
-Módulo 9: Ejercicios.
- * Hacker rank 1. 
- * Hacker rank 2. 
- * Hacker rank 3. 
+Módulo 6: Ejercicios prácticos.
+ * Hacker rank parte 1. 
+ * Hacker rank parte 2. 
+ * Hacker rank parte 3. 
  * Hacker rank 4. 
  * Hacker rank 5. nsert, update, alter.
 
-Módulo 10: Conclusiones
+Módulo 7: Conclusiones
  * Consejos finales y próximos pasos
